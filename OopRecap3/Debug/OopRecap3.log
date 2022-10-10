@@ -1,0 +1,6 @@
+﻿  Math.cpp
+C:\Users\Cristi P\source\repos\OopRecap3\Math.cpp(18,14): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Cristi P\source\repos\OopRecap3\Math.cpp(23,19): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Cristi P\source\repos\OopRecap3\Math.cpp(38,14): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Cristi P\source\repos\OopRecap3\Math.cpp(43,15): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  OopRecap3.vcxproj -> C:\Users\Cristi P\source\repos\OopRecap3\Debug\OopRecap3.exe

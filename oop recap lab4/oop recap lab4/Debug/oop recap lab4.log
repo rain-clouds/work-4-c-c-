@@ -1,0 +1,5 @@
+﻿  main.cpp
+  mylibrary.cpp
+C:\Users\Cristi P\source\repos\oop recap lab4\oop recap lab4\mylibrary.cpp(102,23): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  oop recap lab4.vcxproj -> C:\Users\Cristi P\source\repos\oop recap lab4\Debug\oop recap lab4.exe

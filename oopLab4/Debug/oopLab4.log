@@ -1,0 +1,9 @@
+﻿  Sort.cpp
+C:\Users\Cristi P\source\repos\oopLab4\Sort.cpp(13,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Cristi P\source\repos\oopLab4\Sort.cpp(42,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Cristi P\source\repos\oopLab4\Sort.cpp(52,22): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Cristi P\source\repos\oopLab4\Sort.cpp(62,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Cristi P\source\repos\oopLab4\Sort.cpp(76,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Cristi P\source\repos\oopLab4\Sort.cpp(132,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Cristi P\source\repos\oopLab4\Sort.cpp(133,17): warning C4018: '<': signed/unsigned mismatch
+  oopLab4.vcxproj -> C:\Users\Cristi P\source\repos\oopLab4\Debug\oopLab4.exe
